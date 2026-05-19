@@ -1,6 +1,6 @@
 # Hi, I'm Arriza 👋
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Arriza%20&fontSize=90" alt="Arriza Banner">
+
 
 I'm a **Software Engineering Student** passionate about **Fullstack Web & Mobile Development**. I thrive on building efficient, scalable applications and am continuously learning through personal projects, professional training, and industry certifications.
 
@@ -37,4 +37,3 @@ I'm a **Software Engineering Student** passionate about **Fullstack Web & Mobile
 </p>
 
 ---
-*“Coding is not just about writing lines of code, it’s about solving problems and creating impact.”*
