@@ -7,7 +7,7 @@ I'm a **Software Engineering Student** passionate about **Fullstack Web & Mobile
 ### 🚀 Quick Bio
 - 🎓 Currently studying **Teknologi Rekayasa Perangkat Lunak**.
 - 💻 Focus: **Frontend & Backend Web Development**.
-- 📱 Interested in: **Cross-platform Mobile Development**.
+- 📱 Interested in: **Mobile Development**.
 - 📚 Currently diving deeper into Software Architecture and Cloud Services.
 - 🌱 Continuously learning through personal projects, training, and certifications.
 
@@ -28,6 +28,7 @@ I'm a **Software Engineering Student** passionate about **Fullstack Web & Mobile
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Find me around the web 🌎:
